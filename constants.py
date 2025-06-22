@@ -54,11 +54,23 @@ WEREWOLF_BELOW_AVG = [
 ]
 WEREWOLF_MISS = [
     "The werewolf scratches your arm enough to make the skin red, but not enough to draw blood. Still hurts...",
-    "The werewolf attempts to clobber you, but instead it hits you with the back of its hand",
+    "The werewolf atgtempts to clobber you, but instead it hits you with the back of its hand",
     "The beast swipes at you but instead hits your sword. You manage to hold on but the force crawls up your arm instead."
 ]
 WEREWOLF_DEATH = [
     "The werewolf crumples to the ground and shudders. It yips and growls as it struggles to move.\nAfter a couple minutes the creature slows down until all you can see is its body heave with every breath.",
     "The beast struggles to stay standing on its hind legs. It whines as it takes one labored step after another.\nThe creature glances at you with something akin to sadness.",
     "The creature falls on its forelimbs and stares up at the night sky.\nIt howls softly at the moon as if afraid to wake the slumbering forest."
+]
+
+# Evade
+EVADE_SUCC = [
+    "You pivot around the lumbering werewolf to open space.",
+    "You successfully bought yourself some time.",
+    "You dash away from the beast."
+]
+EVADE_MISS = [
+    "You attempt to skirt around the beast but trip on a small stone instead.",
+    "The werewolf's petrifying gaze roots you to the spot.",
+    "The masochist in you wants the pain. You let the werewolf hit you."
 ]
