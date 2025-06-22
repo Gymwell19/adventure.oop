@@ -74,3 +74,66 @@ EVADE_MISS = [
     "The werewolf's petrifying gaze roots you to the spot.",
     "The masochist in you wants the pain. You let the werewolf hit you."
 ]
+
+# Heavy sword attack
+HEAVY_SWORD_CRIT = [
+    "[CRITICAL]\nYour weapon no longer cuts, it smashes, and you just dropped the hammer.",
+    "[CRITICAL]\nYou crash the sword into the werewolf. Your muscles contract so hard they tear, but you decimate the werewolf's bones",
+    "[CRITICAL]\nYour body rips past its natural limits as you slam the hilt of the sword into the wereolf's skull. The hilt warps in your terrifying grip."
+]
+HEAVY_SWORD_ABOVE_AVG = [
+    "Years of fury allows you to wallop the beast.",
+    "You sword hits the beast with a mighty crash.",
+    "Your sword whizzes through the air and steel meets blood."
+]
+HEAVY_SWORD_AVG = [
+    "You slam the sword into the beast.",
+    "Your attack is the exact same as a regular attack except you use both hands this time.",
+    "You are angry and you have a pointy stick. 2 + 2 = 4"
+]
+HEAVY_SWORD_BELOW_AVG = [
+    "You wield the sword with the finesse of a hungry ape",
+    "Your heavy attack glances off the beast's hide, but still holds significant force behind it.",
+    "Your muscles fail you, your heavy attack is weakened."
+]
+
+# Throw sword attack
+THROW_SWORD_CRIT = [
+    "[CRITICAL]\nYou have thrown things all your life and it shows.",
+    "[CRITICAL]\nYou hurl your sword at the werewolf and it rips through the beast like a bullet.",
+    "[CRITICAL]\nYour sword flies so fast it somehow breaks the sound barrier."
+]
+THROW_SWORD_ABOVE_AVG = [
+    "Your sword flies true and buries itself into the belly of the beast.",
+    "You throw the sword with impressive speed.",
+    "The flying sword manages to slice the werewolf."
+]
+THROW_SWORD_AVG = [
+    "You throw the sword and it hits the beast. Simple as that.",
+    "You fling the sword at the creature and manage to hurt it.",
+    "You lob the sword at the werewolf and it cuts the beast."
+]
+THROW_SWORD_BELOW_AVG = [
+    "You fling the sword at the werewolf with the power of a small child.",
+    "You throw the sword but manage to hit the beast with the hilt instead of the blade.",
+    "Your throw your blade but the sword moves so slow it merely pokes the werewolf."
+]
+THROW_SWORD_MISS = [
+    "You throw your sword with enough power to split a tree, too bad it flies directly over the beast",
+    "You wind back to throw your sword but let go to early. Instead of the sword hitting the werewolf it falls behind you.",
+    "Millions of years of evolution gave humans the dexterity and precision to throw things with accuracy. You are the exception to evolution."
+]
+
+# Loot
+WEREWOLF_SLAY_LOOT = [
+    "[ITEM] Monstrous Hide", "[ITEM] Savage Canines", "[ITEM] Thick Claws"
+]
+WEREWOLF_SLAY_SPECIAL_LOOT = [
+    "[SECRET ITEM] Pungent Feces (Common)", "[SECRET ITEM] Nocturnal Eyes (Rare)", "[SECRET ITEM] Vial of Pure Blood (Legendary)"
+]
+WEREWOLF_MERCY_LOOT = [
+    "[ITEM] Golden Sword"
+]
+WEREWOLF_MERCY_SPECIAL_LOOT = [
+    "[SECRET ITEM] Lightly Used Fleshlight (Common)", "[SECRET ITEM] Imbued Iron Bar (Rare)", "[SECRET ITEM] Brilliant Sapphire (Legendary)"
+]
