@@ -1,6 +1,6 @@
 This project, "Natural Savagery," which is adventure.py is not my original work. It is adapted from the code and design of the original author from Project_1. Full credit and recognition go to the creator for the concept, structure, and initial implementation.
 
-Inheterince i have some like game logic it contain all the class inside
+Inheterince i have some like game logic it contain all the class inside then the logic inside the main
 
 Encapsulation i dont have that. i dont have any restriction or security that set in the code
 
